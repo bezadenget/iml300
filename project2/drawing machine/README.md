@@ -7,7 +7,7 @@ Doodle Break
 Basic doodle machine with different colors and shapes that lets you release some creativity with just a click. Made w/p5.js
 
 
-How To Install
+###How To Install
 
 Download this repo as a zip file and unzip it to a local folder
 Open the chrome://extensions page
@@ -18,7 +18,8 @@ Select the extension folder
 
 
 
-Other Chrome Concepts:
+
+###Other Chrome Concepts:
 
 Extension with that replaces every "th" with "z"
 
