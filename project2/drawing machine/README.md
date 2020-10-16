@@ -1,6 +1,6 @@
 ### Doodle Break
 
-![screenshot](https://github.com/bezadenget/iml300/master/project-2/drawing_machine/Screeshot1.png)
+![screenshot](https://github.com/bezadenget/iml300/tree/master/project-2/drawing_machine/Screeshot1.png)
 
 
 
