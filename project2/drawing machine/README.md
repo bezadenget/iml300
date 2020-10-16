@@ -19,15 +19,16 @@ Select the extension folder
 
 
 
+
 ### Other Chrome Concepts:
 
-Extension with that replaces every "th" with "z"
+* Extension with that replaces every "th" with "z"
 
-Extension that can decorate webscapes for the holidays
+* Extension that can decorate webscapes for the holidays
 
-Extension with the traditional hand cursor redesigned with stylish nails
+* Extension with the traditional hand cursor redesigned with stylish nails
 
-Extension that with every click a mustache appears, then disappears (2012 reminiscent)
+* Extension that with every click a mustache appears, then disappears (2012 reminiscent)
 
-Extension that 
+* Extension that makes the screen a different hue 
 
