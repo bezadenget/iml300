@@ -1,7 +1,7 @@
 Doodle Break
 
 
-project2/drawing machine/Screen Shot .png
+![ScreenShot](https://raw.github.com/{bezadenget}/{iml300}/{project2/drawing machine}/{project2/drawing machine})
 
 
 Basic doodle machine with different colors and shapes that lets you release some creativity with just a click. Made w/p5.js
