@@ -1,6 +1,6 @@
 Doodle Break
 
-![screenshot](https://github.com/bezadenget/iml300/master/project-2/drawing_machine/Screen Shot.png)
+![screenshot](https://github.com/bezadenget/iml300/master/project-2/drawing_machine/Screeshot1.png)
 
 Basic doodle machine with different colors and shapes that lets you release some creativity with just a click. Made w/p5.js
 
